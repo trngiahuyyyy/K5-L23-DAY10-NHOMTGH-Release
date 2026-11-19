@@ -1,0 +1,1483 @@
+{
+  "candidates": [
+    {
+      "image": "000000000139",
+      "target": "000000000139",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 3496593,
+      "panoptic_class": "chair",
+      "segment_bbox_xywh": [
+        412,
+        219,
+        10,
+        13
+      ],
+      "boxes": [
+        {
+          "class": "chair",
+          "xyxy": [
+            358,
+            218,
+            415,
+            321
+          ]
+        },
+        {
+          "class": "chair",
+          "xyxy": [
+            413,
+            223,
+            444,
+            305
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000001000",
+      "target": "000000001000",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 6712936,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        330,
+        155,
+        83,
+        313
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            265,
+            95,
+            355,
+            412
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            380,
+            159,
+            470,
+            480
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000001000",
+      "target": "000000001000",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4542047,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        381,
+        160,
+        86,
+        319
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            410,
+            208,
+            526,
+            480
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            330,
+            154,
+            414,
+            469
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000001818",
+      "target": "000000001818",
+      "type": "bbox_drift",
+      "possible_types": [
+        "bbox_drift"
+      ],
+      "segment_id": 8092282,
+      "panoptic_class": "zebra",
+      "segment_bbox_xywh": [
+        0,
+        1,
+        638,
+        424
+      ],
+      "boxes": [
+        {
+          "class": "zebra",
+          "xyxy": [
+            178,
+            1,
+            640,
+            425
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000002153",
+      "target": "000000002153",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5784894,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        284,
+        275,
+        182,
+        170
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            371,
+            207,
+            434,
+            406
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            275,
+            302,
+            380,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000002157",
+      "target": "000000002157",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5919607,
+      "panoptic_class": "wine glass",
+      "segment_bbox_xywh": [
+        92,
+        88,
+        65,
+        83
+      ],
+      "boxes": [
+        {
+          "class": "wine glass",
+          "xyxy": [
+            138,
+            27,
+            201,
+            170
+          ]
+        },
+        {
+          "class": "wine glass",
+          "xyxy": [
+            46,
+            17,
+            114,
+            162
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000002157",
+      "target": "000000002157",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5261667,
+      "panoptic_class": "wine glass",
+      "segment_bbox_xywh": [
+        140,
+        28,
+        61,
+        141
+      ],
+      "boxes": [
+        {
+          "class": "wine glass",
+          "xyxy": [
+            163,
+            68,
+            234,
+            177
+          ]
+        },
+        {
+          "class": "wine glass",
+          "xyxy": [
+            113,
+            15,
+            167,
+            93
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000002685",
+      "target": "000000002685",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2172008,
+      "panoptic_class": "bottle",
+      "segment_bbox_xywh": [
+        160,
+        249,
+        19,
+        36
+      ],
+      "boxes": [
+        {
+          "class": "bottle",
+          "xyxy": [
+            121,
+            272,
+            181,
+            337
+          ]
+        },
+        {
+          "class": "bottle",
+          "xyxy": [
+            168,
+            237,
+            186,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000002685",
+      "target": "000000002685",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2502708,
+      "panoptic_class": "bottle",
+      "segment_bbox_xywh": [
+        168,
+        238,
+        16,
+        27
+      ],
+      "boxes": [
+        {
+          "class": "bottle",
+          "xyxy": [
+            160,
+            248,
+            180,
+            286
+          ]
+        },
+        {
+          "class": "bottle",
+          "xyxy": [
+            175,
+            235,
+            186,
+            253
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000003255",
+      "target": "000000003255",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 1447190,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        243,
+        315,
+        8,
+        41
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            246,
+            319,
+            258,
+            358
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            235,
+            317,
+            245,
+            356
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000005001",
+      "target": "000000005001",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2566189,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        51,
+        59,
+        84,
+        83
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            119,
+            81,
+            189,
+            270
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            50,
+            58,
+            136,
+            143
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000005193",
+      "target": "000000005193",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 3160912,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        360,
+        221,
+        127,
+        153
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            377,
+            98,
+            581,
+            290
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            289,
+            171,
+            410,
+            401
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000008277",
+      "target": "000000008277",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 1072752,
+      "panoptic_class": "broccoli",
+      "segment_bbox_xywh": [
+        258,
+        227,
+        88,
+        71
+      ],
+      "boxes": [
+        {
+          "class": "broccoli",
+          "xyxy": [
+            270,
+            181,
+            364,
+            258
+          ]
+        },
+        {
+          "class": "broccoli",
+          "xyxy": [
+            209,
+            162,
+            279,
+            271
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000008277",
+      "target": "000000008277",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 674121,
+      "panoptic_class": "broccoli",
+      "segment_bbox_xywh": [
+        271,
+        183,
+        92,
+        74
+      ],
+      "boxes": [
+        {
+          "class": "broccoli",
+          "xyxy": [
+            257,
+            226,
+            346,
+            298
+          ]
+        },
+        {
+          "class": "broccoli",
+          "xyxy": [
+            278,
+            149,
+            380,
+            218
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000008844",
+      "target": "000000008844",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 3709110,
+      "panoptic_class": "banana",
+      "segment_bbox_xywh": [
+        534,
+        242,
+        30,
+        79
+      ],
+      "boxes": [
+        {
+          "class": "banana",
+          "xyxy": [
+            543,
+            259,
+            638,
+            393
+          ]
+        },
+        {
+          "class": "banana",
+          "xyxy": [
+            370,
+            243,
+            544,
+            384
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000010707",
+      "target": "000000010707",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 922933,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        347,
+        188,
+        125,
+        264
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            228,
+            147,
+            398,
+            458
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            422,
+            2,
+            601,
+            474
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000013923",
+      "target": "000000013923",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4080824,
+      "panoptic_class": "chair",
+      "segment_bbox_xywh": [
+        244,
+        287,
+        93,
+        123
+      ],
+      "boxes": [
+        {
+          "class": "chair",
+          "xyxy": [
+            213,
+            232,
+            336,
+            371
+          ]
+        },
+        {
+          "class": "chair",
+          "xyxy": [
+            240,
+            369,
+            340,
+            427
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000014038",
+      "target": "000000014038",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5597322,
+      "panoptic_class": "book",
+      "segment_bbox_xywh": [
+        501,
+        284,
+        42,
+        12
+      ],
+      "boxes": [
+        {
+          "class": "book",
+          "xyxy": [
+            501,
+            291,
+            545,
+            307
+          ]
+        },
+        {
+          "class": "book",
+          "xyxy": [
+            504,
+            274,
+            540,
+            292
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000014038",
+      "target": "000000014038",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5661067,
+      "panoptic_class": "book",
+      "segment_bbox_xywh": [
+        504,
+        275,
+        35,
+        16
+      ],
+      "boxes": [
+        {
+          "class": "book",
+          "xyxy": [
+            507,
+            270,
+            545,
+            285
+          ]
+        },
+        {
+          "class": "book",
+          "xyxy": [
+            502,
+            285,
+            545,
+            301
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000015335",
+      "target": "000000015335",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 3088945,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        541,
+        21,
+        75,
+        142
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            508,
+            35,
+            559,
+            165
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            554,
+            23,
+            591,
+            88
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000015335",
+      "target": "000000015335",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 7570350,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        536,
+        22,
+        30,
+        45
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            508,
+            35,
+            559,
+            165
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            554,
+            23,
+            591,
+            88
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000015497",
+      "target": "000000015497",
+      "type": "class_swap",
+      "possible_types": [
+        "class_swap",
+        "category_swap"
+      ],
+      "segment_id": 5001057,
+      "panoptic_class": "cat",
+      "segment_bbox_xywh": [
+        32,
+        20,
+        452,
+        434
+      ],
+      "boxes": [
+        {
+          "class": "dog",
+          "xyxy": [
+            32,
+            20,
+            485,
+            455
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000015517",
+      "target": "000000015517",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 6443848,
+      "panoptic_class": "bus",
+      "segment_bbox_xywh": [
+        375,
+        292,
+        114,
+        22
+      ],
+      "boxes": [
+        {
+          "class": "bus",
+          "xyxy": [
+            433,
+            283,
+            516,
+            313
+          ]
+        },
+        {
+          "class": "bus",
+          "xyxy": [
+            322,
+            285,
+            419,
+            307
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000016451",
+      "target": "000000016451",
+      "type": "class_swap",
+      "possible_types": [
+        "class_swap",
+        "category_swap"
+      ],
+      "segment_id": 6440263,
+      "panoptic_class": "bench",
+      "segment_bbox_xywh": [
+        175,
+        193,
+        34,
+        48
+      ],
+      "boxes": [
+        {
+          "class": "chair",
+          "xyxy": [
+            174,
+            193,
+            210,
+            242
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017115",
+      "target": "000000017115",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4474975,
+      "panoptic_class": "zebra",
+      "segment_bbox_xywh": [
+        2,
+        97,
+        439,
+        505
+      ],
+      "boxes": [
+        {
+          "class": "zebra",
+          "xyxy": [
+            242,
+            122,
+            441,
+            603
+          ]
+        },
+        {
+          "class": "zebra",
+          "xyxy": [
+            2,
+            96,
+            208,
+            596
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017182",
+      "target": "000000017182",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4013872,
+      "panoptic_class": "book",
+      "segment_bbox_xywh": [
+        293,
+        227,
+        29,
+        71
+      ],
+      "boxes": [
+        {
+          "class": "book",
+          "xyxy": [
+            275,
+            229,
+            312,
+            302
+          ]
+        },
+        {
+          "class": "book",
+          "xyxy": [
+            314,
+            228,
+            346,
+            295
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017627",
+      "target": "000000017627",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 7038042,
+      "panoptic_class": "car",
+      "segment_bbox_xywh": [
+        460,
+        231,
+        69,
+        24
+      ],
+      "boxes": [
+        {
+          "class": "car",
+          "xyxy": [
+            412,
+            234,
+            484,
+            286
+          ]
+        },
+        {
+          "class": "car",
+          "xyxy": [
+            479,
+            234,
+            570,
+            286
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017714",
+      "target": "000000017714",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2510175,
+      "panoptic_class": "banana",
+      "segment_bbox_xywh": [
+        474,
+        301,
+        14,
+        16
+      ],
+      "boxes": [
+        {
+          "class": "banana",
+          "xyxy": [
+            449,
+            274,
+            479,
+            306
+          ]
+        },
+        {
+          "class": "banana",
+          "xyxy": [
+            483,
+            302,
+            513,
+            344
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017959",
+      "target": "000000017959",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2365329,
+      "panoptic_class": "kite",
+      "segment_bbox_xywh": [
+        272,
+        234,
+        54,
+        97
+      ],
+      "boxes": [
+        {
+          "class": "kite",
+          "xyxy": [
+            271,
+            176,
+            420,
+            268
+          ]
+        },
+        {
+          "class": "kite",
+          "xyxy": [
+            191,
+            272,
+            325,
+            399
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017959",
+      "target": "000000017959",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4337784,
+      "panoptic_class": "kite",
+      "segment_bbox_xywh": [
+        331,
+        241,
+        50,
+        162
+      ],
+      "boxes": [
+        {
+          "class": "kite",
+          "xyxy": [
+            349,
+            95,
+            640,
+            278
+          ]
+        },
+        {
+          "class": "kite",
+          "xyxy": [
+            331,
+            240,
+            381,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017959",
+      "target": "000000017959",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 7752551,
+      "panoptic_class": "kite",
+      "segment_bbox_xywh": [
+        243,
+        122,
+        214,
+        107
+      ],
+      "boxes": [
+        {
+          "class": "kite",
+          "xyxy": [
+            164,
+            141,
+            332,
+            345
+          ]
+        },
+        {
+          "class": "kite",
+          "xyxy": [
+            349,
+            95,
+            640,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017959",
+      "target": "000000017959",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 11308664,
+      "panoptic_class": "kite",
+      "segment_bbox_xywh": [
+        350,
+        96,
+        283,
+        181
+      ],
+      "boxes": [
+        {
+          "class": "kite",
+          "xyxy": [
+            242,
+            121,
+            460,
+            230
+          ]
+        },
+        {
+          "class": "kite",
+          "xyxy": [
+            446,
+            201,
+            600,
+            311
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000017959",
+      "target": "000000017959",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 3616632,
+      "panoptic_class": "kite",
+      "segment_bbox_xywh": [
+        271,
+        177,
+        149,
+        90
+      ],
+      "boxes": [
+        {
+          "class": "kite",
+          "xyxy": [
+            164,
+            141,
+            332,
+            345
+          ]
+        },
+        {
+          "class": "kite",
+          "xyxy": [
+            349,
+            95,
+            640,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000018193",
+      "target": "000000018193",
+      "type": "class_swap",
+      "possible_types": [
+        "class_swap",
+        "category_swap"
+      ],
+      "segment_id": 2892574,
+      "panoptic_class": "bench",
+      "segment_bbox_xywh": [
+        28,
+        123,
+        369,
+        347
+      ],
+      "boxes": [
+        {
+          "class": "chair",
+          "xyxy": [
+            28,
+            122,
+            397,
+            471
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000018380",
+      "target": "000000018380",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 2436446,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        221,
+        78,
+        44,
+        96
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            187,
+            133,
+            237,
+            239
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            226,
+            31,
+            281,
+            119
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000018380",
+      "target": "000000018380",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5333101,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        68,
+        152,
+        108,
+        257
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            0,
+            168,
+            130,
+            420
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            140,
+            102,
+            234,
+            304
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000019109",
+      "target": "000000019109",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4864814,
+      "panoptic_class": "motorcycle",
+      "segment_bbox_xywh": [
+        284,
+        251,
+        57,
+        99
+      ],
+      "boxes": [
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            186,
+            271,
+            321,
+            367
+          ]
+        },
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            312,
+            251,
+            373,
+            355
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000019109",
+      "target": "000000019109",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4865587,
+      "panoptic_class": "motorcycle",
+      "segment_bbox_xywh": [
+        361,
+        257,
+        44,
+        91
+      ],
+      "boxes": [
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            312,
+            251,
+            373,
+            355
+          ]
+        },
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            378,
+            249,
+            462,
+            345
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000019109",
+      "target": "000000019109",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 5523777,
+      "panoptic_class": "motorcycle",
+      "segment_bbox_xywh": [
+        431,
+        253,
+        60,
+        85
+      ],
+      "boxes": [
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            378,
+            249,
+            462,
+            345
+          ]
+        },
+        {
+          "class": "motorcycle",
+          "xyxy": [
+            457,
+            251,
+            528,
+            337
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000020571",
+      "target": "000000020571",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 9671585,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        488,
+        162,
+        10,
+        26
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            493,
+            150,
+            508,
+            190
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            479,
+            157,
+            493,
+            187
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000024021",
+      "target": "000000024021",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 6118749,
+      "panoptic_class": "person",
+      "segment_bbox_xywh": [
+        328,
+        133,
+        61,
+        71
+      ],
+      "boxes": [
+        {
+          "class": "person",
+          "xyxy": [
+            366,
+            131,
+            402,
+            201
+          ]
+        },
+        {
+          "class": "person",
+          "xyxy": [
+            339,
+            167,
+            376,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "image": "000000024567",
+      "target": "000000024567",
+      "type": "instance_merge",
+      "possible_types": [
+        "instance_merge"
+      ],
+      "segment_id": 4089287,
+      "panoptic_class": "hot dog",
+      "segment_bbox_xywh": [
+        138,
+        528,
+        169,
+        55
+      ],
+      "boxes": [
+        {
+          "class": "hot dog",
+          "xyxy": [
+            186,
+            436,
+            363,
+            549
+          ]
+        },
+        {
+          "class": "hot dog",
+          "xyxy": [
+            51,
+            468,
+            202,
+            576
+          ]
+        }
+      ]
+    }
+  ]
+}
