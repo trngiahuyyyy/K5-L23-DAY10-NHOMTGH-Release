@@ -19,7 +19,6 @@ image,scene_id,split,job_id,annotator,reviewer,guideline
 000000001584,scene_537,val,J01,A05,Q02,v1.2
 000000001675,scene_537,val,J01,A05,Q02,v1.2
 000000001761,scene_537,val,J01,A05,Q02,v1.2
-000000001818,scene_669,val,J01,A05,Q02,v1.2
 000000001993,scene_669,val,J01,A05,Q02,v1.2
 000000002006,scene_669,val,J01,A05,Q02,v1.2
 000000002149,scene_669,val,J01,A05,Q02,v1.2
@@ -147,7 +146,6 @@ image,scene_id,split,job_id,annotator,reviewer,guideline
 000000015335,scene_623,train,J06,A02,Q01,v1.3
 000000015338,scene_623,train,J06,A02,Q01,v1.3
 000000015440,scene_105,train,J07,A03,Q03,v1.3
-000000015497,scene_105,train,J07,A03,Q03,v1.3
 000000015517,scene_105,train,J07,A03,Q03,v1.3
 000000015597,scene_105,train,J07,A03,Q03,v1.3
 000000015660,scene_105,train,J07,A03,Q03,v1.3

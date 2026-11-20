@@ -1,0 +1,2 @@
+# Giữ nguyên bytes gốc trong handover v2 để không làm lệch SHA-256 (H7/H8/H15) khi clone giữa Windows/macOS/Linux
+submission/r3056/handover/** -text

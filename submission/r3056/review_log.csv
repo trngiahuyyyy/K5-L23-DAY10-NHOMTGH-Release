@@ -1,30 +1,30 @@
-image;type;verdict;note
-139;instance_merge;rejected;Gh? r?t nh?, mask kh?p ��ng 1 box chair.
-1000;instance_merge;rejected;M?i mask kh?p ��ng 1 box person.
-1818;missing_box;confirmed;Con ng?a v?n th? 2 c� mask r?t l?n nh�ng kh�ng c� box ri�ng v� ch? c� 1 box zebra kh?p mask kia.
-2153;instance_merge;rejected;Mask tr�ng kh�t box person, box ch? n?m ch?ng b�n trong.
-2157;instance_merge;rejected;M?i mask kh?p ��ng 1 box ly r�?u.
-2685;instance_merge;rejected;M?i mask kh?p ��ng 1 box chai.
-3255;instance_merge;rejected;C�c ng�?i �?ng s�t v� che khu?t nhau, c�c mask v?n t�ch ri�ng. Mask ng�?i ? gi?a giao v?i hai box b�n c?nh n�n b? b�o nghi g?p
-5001;instance_merge;confirmed;Hai ng�?i c� box ri�ng nh�ng c�ng b? g?p v�o segment 2566189
-5193;instance_merge;rejected;person v� sufboard �?u c� mask ri�ng v� m?t box
-8277;instance_merge;confirmed;YOLO c� box ri�ng cho mi?ng s�p l�. Tr�n ?nh panoptic, mask c?a b�t ph? c? mi?ng s�p l�.
-8844;instance_merge;rejected;C�c c?m chu?i c� mask ri�ng. Mask nh? ? ranh gi?i n?m m?t ph?n trong c? hai box YOLO, g�y b�o nghi g?p.
-10707;instance_merge;rejected;Ba ng�?i c� mask ri�ng. Mask ng�?i ng?i gi?a giao v?i box c?a hai ng�?i b�n c?nh do che khu?t, kh�ng th?y g?p hai ng�?i v�o c�ng mask.
-13923;instance_merge;rejected;"Th?ng review: ?nh ph?ng kh�ch c� 1 gh? �? �?ng gi?a gh? b�nh g? m�u be ph�a sau v� gh? �? kh�c ph�a tr�?c; mask panoptic t�ch ri�ng ��ng t?ng gh? (kh�ng g?p), 2 box YOLO c?a 2 gh? l�n c?n ch?ng l?n t? nhi�n l�n gh? �? ? gi?a."
-14038;instance_merge;rejected;"Th?ng review: ?nh c�n h? c� k? �en b�n ph?i x?p ch?ng nhi?u cu?n s�ch n?m ngang s�t nhau; mask panoptic t�ch ri�ng t?ng cu?n theo m�u, c?n box YOLO c?a c�c cu?n n?m tr�n v� d�?i ch?ng l?n m�p t? nhi�n do g�c ch?p nghi�ng."
-15335;instance_merge;rejected;"Th?ng review: ?nh trong nh� h�ng t?i, g�c tr�n b�n ph?i ph�a sau �?u ng�?i ��n �ng c� nhi?u kh�ch (ng�?i �o �? v� kh�ch ng?i khu?t sau) b? che l?p ch�o nhau; mask panoptic t�ch r? t?ng ng�?i theo m�u, box YOLO ch?ng t? nhi�n do che khu?t."
-15497;class_swap;confirmed;"Th?ng review: m? ?nh th?y r? con m�o m�?p tr?ng n?m tr�n gh? sofa �en c?nh chu?t m�y t�nh; mask panoptic g�n ��ng nh?n cat, c?n box detection YOLO b? g�n nh?m th�nh dog n�n ��y l� l?i th?t class_swap."
-15517;instance_merge;rejected;"Th?ng review: ?nh b?n xe bu?t c� nhi?u xe �?u san s�t nhi?u h�ng ph�a sau m�i che; mask xanh l� c?a panoptic ch? b?c ��ng 1 xe bu?t tr?ng-xanh, c?n 2 box YOLO c?a c�c xe �?u k? ph�a sau v� b�n ph?i ch?ng ch�o g�c nh?n t? nhi�n."
-16451;category_swap;confirmed;"Th?ng review: ?nh b?i bi?n d�?i � xanh c� 2 gh? x?p ��n �?t c?nh xe �?y �?; v?t th? b�n tr�i r? r�ng l� gh? x?p ��n (chair) gi?ng chi?c b�n c?nh, detection YOLO g�n ��ng chair nh�ng mask panoptic b? �?i sai th�nh bench (category_swap)."
-17115;instance_merge;confirmed;?nh c� 2 con ng?a v?n �?ng c?nh nhau nh�ng t�ch r?i, mask �ang b? g?p chung c? 2 con.
-17182;instance_merge;confirmed;D?y s�ch x?p ngang s�t nhau tr�n b�n nh�ng mask �ang g?p nhi?u cu?n l�m m?t
-17627;instance_merge;confirmed;C�c xe � t� g?n nhau tr�n ��?ng nh�ng mask �ang g?p chung m?t v�ng
-17714;instance_merge;rejected;C�c l�t chu?i kh�ng b? tr�ng hay g?p chung mask, d� n?m g?n nhau v?n t�ch ri�ng t��ng �?i r?
-17959;instance_merge;confirmed;Nhi?u di?u v� �u�i di?u n?m ch?ng/giao nhau tr�n tr?i, mask b? g?p c?c b?.
-18193;category_swap;confirmed;Chi?c gh? x?p ��ng l� chair nh�ng mask g�n th�nh bench, l?i �?i nh?n c� th?t
-18380;instance_merge;rejected;B�n ti?c gia �?nh ng?i s�t nhau, m?i ng�?i �?u c� mask panoptic v� box YOLO ri�ng, ch? ch?ng m�p t? nhi�n
-19109;instance_merge;rejected;motorcycles parked together while under the crowd box -> natural
-20571;instance_merge;rejected;l?ch t? nhi�n: hai ng�?i �?ng s�t nhau ? xa tr�n c?u c?ng n�n m�p hai box YOLO giao nhau tr�n v�ng mask nh? ? gi?a
-24021;instance_merge;rejected;?nh t?p th? tr�?ng h?c ��ng ng�?i (crowd), h?c sinh h�ng tr�?c che m?t ph?n vai th?y gi�o n�n box YOLO ch?ng l�n nhau
-24567;instance_merge;rejected;Khay co 7 hot dog xep cheo sat nhau, panoptic da tach du 7 segment rieng
+image,type,verdict,note
+000000000139,instance_merge,rejected,"Ghế rất nhỏ, mask khớp đúng 1 box chair."
+000000001000,instance_merge,rejected,Mỗi mask khớp đúng 1 box person.
+000000001818,missing_box,confirmed,Con ngựa vằn thứ 2 có mask rất lớn nhưng không có box riêng và chỉ có 1 box zebra khớp mask kia.
+000000002153,instance_merge,rejected,"Mask trùng khít box person, box chỉ nằm chồng bên trong."
+000000002157,instance_merge,rejected,Mỗi mask khớp đúng 1 box ly rượu.
+000000002685,instance_merge,rejected,Mỗi mask khớp đúng 1 box chai.
+000000003255,instance_merge,rejected,"Các người đứng sát và che khuất nhau, các mask vẫn tách riêng. Mask người ở giữa giao với hai box bên cạnh nên bị báo nghi gộp"
+000000005001,instance_merge,confirmed,Hai người có box riêng nhưng cùng bị gộp vào segment 2566189
+000000005193,instance_merge,rejected,person và sufboard đều có mask riêng và một box
+000000008277,instance_merge,confirmed,"YOLO có box riêng cho miếng súp lơ. Trên ảnh panoptic, mask của bát phủ cả miếng súp lơ."
+000000008844,instance_merge,rejected,"Các cụm chuối có mask riêng. Mask nhỏ ở ranh giới nằm một phần trong cả hai box YOLO, gây báo nghi gộp."
+000000010707,instance_merge,rejected,"Ba người có mask riêng. Mask người ngồi giữa giao với box của hai người bên cạnh do che khuất, không thấy gộp hai người vào cùng mask."
+000000013923,instance_merge,rejected,"Thắng review: ảnh phòng khách có 1 ghế đỏ đứng giữa ghế bành gỗ màu be phía sau và ghế đỏ khác phía trước; mask panoptic tách riêng đúng từng ghế (không gộp), 2 box YOLO của 2 ghế lân cận chồng lấn tự nhiên lên ghế đỏ ở giữa."
+000000014038,instance_merge,rejected,"Thắng review: ảnh căn hộ có kệ đen bên phải xếp chồng nhiều cuốn sách nằm ngang sát nhau; mask panoptic tách riêng từng cuốn theo màu, còn box YOLO của các cuốn nằm trên và dưới chồng lấn mép tự nhiên do góc chụp nghiêng."
+000000015335,instance_merge,rejected,"Thắng review: ảnh trong nhà hàng tối, góc trên bên phải phía sau đầu người đàn ông có nhiều khách (người áo đỏ và khách ngồi khuất sau) bị che lấp chéo nhau; mask panoptic tách rõ từng người theo màu, box YOLO chồng tự nhiên do che khuất."
+000000015497,class_swap,confirmed,"Thắng review: mở ảnh thấy rõ con mèo mướp trắng nằm trên ghế sofa đen cạnh chuột máy tính; mask panoptic gán đúng nhãn cat, còn box detection YOLO bị gán nhầm thành dog nên đây là lỗi thật class_swap."
+000000015517,instance_merge,rejected,"Thắng review: ảnh bến xe buýt có nhiều xe đậu san sát nhiều hàng phía sau mái che; mask xanh lá của panoptic chỉ bọc đúng 1 xe buýt trắng-xanh, còn 2 box YOLO của các xe đậu kề phía sau và bên phải chồng chéo góc nhìn tự nhiên."
+000000016451,category_swap,confirmed,"Thắng review: ảnh bãi biển dưới ô xanh có 2 ghế xếp đơn đặt cạnh xe đẩy đồ; vật thể bên trái rõ ràng là ghế xếp đơn (chair) giống chiếc bên cạnh, detection YOLO gán đúng chair nhưng mask panoptic bị đổi sai thành bench (category_swap)."
+000000017115,instance_merge,confirmed,"Ảnh có 2 con ngựa vằn đứng cạnh nhau nhưng tách rời, mask đang bị gộp chung cả 2 con."
+000000017182,instance_merge,confirmed,Dãy sách xếp ngang sát nhau trên bàn nhưng mask đang gộp nhiều cuốn làm một
+000000017627,instance_merge,confirmed,Các xe ô tô gần nhau trên đường nhưng mask đang gộp chung một vùng
+000000017714,instance_merge,rejected,"Các lát chuối không bị trùng hay gộp chung mask, dù nằm gần nhau vẫn tách riêng tương đối rõ"
+000000017959,instance_merge,confirmed,"Nhiều diều và đuôi diều nằm chồng/giao nhau trên trời, mask bị gộp cục bộ."
+000000018193,category_swap,confirmed,"Chiếc ghế xếp đúng là chair nhưng mask gán thành bench, lỗi đổi nhãn có thật"
+000000018380,instance_merge,rejected,"Bàn tiệc gia đình ngồi sát nhau, mỗi người đều có mask panoptic và box YOLO riêng, chỉ chồng mép tự nhiên"
+000000019109,instance_merge,rejected,motorcycles parked together while under the crowd box -> natural
+000000020571,instance_merge,rejected,lệch tự nhiên: hai người đứng sát nhau ở xa trên cầu cảng nên mép hai box YOLO giao nhau trên vùng mask nhỏ ở giữa
+000000024021,instance_merge,rejected,"Ảnh tập thể trường học đông người (crowd), học sinh hàng trước che một phần vai thầy giáo nên box YOLO chồng lên nhau"
+000000024567,instance_merge,rejected,"Khay co 7 hot dog xep cheo sat nhau, panoptic da tach du 7 segment rieng"

@@ -1,4 +1,6 @@
 image,type,annotator,reviewer,action
+000000001818,missing_box,A05,Q02,gán lại rồi xét vào lô sau
 000000002299,duplicate_box,A01,Q02,gán lại rồi xét vào lô sau
 000000006954,bbox_out_of_bounds,A04,Q01,gán lại rồi xét vào lô sau
 000000010977,invalid_class,A03,Q01,gán lại rồi xét vào lô sau
+000000015497,class_swap,A03,Q03,gán lại rồi xét vào lô sau

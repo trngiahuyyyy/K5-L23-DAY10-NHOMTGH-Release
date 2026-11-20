@@ -1,2 +1,4 @@
-{"event": "inject", "release_id": "lab250_647bff93997f", "seed": 3056, "detail": "r3056"}
-{"event": "train", "release_id": "lab250_647bff93997f", "run_id": "R-021"}
+{"event": "inject", "release_id": "lab250_22c4e1a426fc", "seed": 3056, "detail": "r3056"}
+{"event": "train", "release_id": "lab250_22c4e1a426fc", "run_id": "R-021"}
+{"event": "decision", "release_id": "lab250_22c4e1a426fc", "decision": "HOLD"}
+{"event": "release", "release_id": "lab250_22c4e1a426fc_v2", "parent": "lab250_22c4e1a426fc"}

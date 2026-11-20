@@ -14,13 +14,13 @@ stop sign,4
 bench,21
 bird,15
 cat,9
-dog,5
+dog,4
 horse,13
 sheep,13
 cow,9
 elephant,9
 bear,3
-zebra,13
+zebra,12
 giraffe,3
 backpack,30
 umbrella,8
@@ -55,14 +55,14 @@ pizza,14
 donut,1
 cake,3
 chair,82
-couch,14
+couch,13
 potted plant,9
 bed,10
 dining table,32
 toilet,4
 tv,17
 laptop,16
-mouse,6
+mouse,5
 remote,16
 keyboard,10
 cell phone,10
@@ -75,4 +75,4 @@ clock,8
 vase,16
 scissors,2
 teddy bear,7
-TOTAL,1700
+TOTAL,1696
