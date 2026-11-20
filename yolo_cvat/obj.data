@@ -1,0 +1,4 @@
+classes = 80
+train = data/train.txt
+names = data/obj.names
+train_data_dir = data/obj_train_data
