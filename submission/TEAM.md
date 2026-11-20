@@ -1,6 +1,7 @@
 # Nhóm 3049
 
 - Seed luyện tập: 3056
+- Đề ẩn đã chọn: de_an_09 (`release_id`: `lab250_b2eb0db92936`)
 - Repo: https://github.com/trngiahuyyyy/K5-L23-DAY10-NHOMTGH-Release
 
 | Họ và tên | MSHV | Tài khoản GitHub | Phần chính |
