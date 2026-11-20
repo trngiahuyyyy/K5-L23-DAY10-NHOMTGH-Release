@@ -184,7 +184,7 @@ def upscale_if_small(img: Image.Image, min_width: int = 460) -> tuple[Image.Imag
     """Upscale small images (e.g. 240x320) so labels remain legible."""
     w, h = img.size
     if w >= min_width:
-        return img, 1.0
+        return img.copy(), 1.0
     scale = min_width / float(w)
     resized = img.resize((int(round(w * scale)), int(round(h * scale))), Image.Resampling.BILINEAR)
     return resized, scale
